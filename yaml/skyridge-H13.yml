@@ -1,0 +1,84 @@
+---
+id: ecard3-H13
+name: Kabutops
+supertype: Pokémon
+subtypes:
+- Stage 2
+hp: '90'
+types:
+- Fighting
+evolvesFrom: Kabuto
+abilities:
+- name: Primal Aura
+  text: As long as Kabutops is your Active Pokémon, neither player can play Basic
+    Pokémon or Evolution cards from his or her hand to evolve Benched Pokémon.
+  type: Poké-Body
+attacks:
+- name: Dual Cut
+  cost:
+  - Fighting
+  - Fighting
+  - Colorless
+  convertedEnergyCost: 3
+  damage: 50×
+  text: Flip 2 coins. This attack does 50 damage times the number of heads.
+weaknesses:
+- type: Grass
+  value: "×2"
+retreatCost:
+- Colorless
+- Colorless
+convertedRetreatCost: 2
+set:
+  id: ecard3
+  name: Skyridge
+  series: E-Card
+  printedTotal: 144
+  total: 182
+  legalities:
+    unlimited: Legal
+  ptcgoCode: SK
+  releaseDate: 2003/05/12
+  updatedAt: 2020/08/14 09:35:00
+  images:
+    symbol: https://images.pokemontcg.io/ecard3/symbol.png
+    logo: https://images.pokemontcg.io/ecard3/logo.png
+number: H13
+artist: Kouki Saitou
+rarity: Rare Holo
+nationalPokedexNumbers:
+- 141
+legalities:
+  unlimited: Legal
+images:
+  small: https://images.pokemontcg.io/ecard3/H13.png
+  large: https://images.pokemontcg.io/ecard3/H13_hires.png
+tcgplayer:
+  url: https://prices.pokemontcg.io/tcgplayer/ecard3-H13
+  updatedAt: 2023/09/09
+  prices:
+    holofoil:
+      low: 113.98
+      mid: 180.49
+      high: 198.54
+      market: 224.99
+      directLow: 
+cardmarket:
+  url: https://prices.pokemontcg.io/cardmarket/ecard3-H13
+  updatedAt: 2023/09/09
+  prices:
+    averageSellPrice: 14.99
+    lowPrice: 13.0
+    trendPrice: 39.11
+    germanProLow: 0.0
+    suggestedPrice: 0.0
+    reverseHoloSell: 0.0
+    reverseHoloLow: 0.0
+    reverseHoloTrend: 28.36
+    lowPriceExPlus: 30.0
+    avg1: 13.99
+    avg7: 46.24
+    avg30: 52.41
+    reverseHoloAvg1: 40.0
+    reverseHoloAvg7: 37.95
+    reverseHoloAvg30: 34.87

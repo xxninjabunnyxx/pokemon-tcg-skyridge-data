@@ -1,0 +1,97 @@
+---
+id: ecard3-145
+name: Celebi
+supertype: Pokémon
+subtypes:
+- Basic
+hp: '60'
+types:
+- Colorless
+abilities:
+- name: Crystal Type
+  text: Whenever you attach a Grass, Water, or Psychic basic Energy card from your
+    hand to Celebi, Celebi's type (color) becomes the same as that type of Energy
+    until the end of the turn.
+  type: Poké-Body
+attacks:
+- name: Empathic Healing
+  cost:
+  - Grass
+  - Water
+  convertedEnergyCost: 2
+  damage: ''
+  text: Remove 2 damage counters from Celebi and each Pokémon that's the same type
+    (color) as Celebi.
+- name: Mind Bend
+  cost:
+  - Grass
+  - Psychic
+  - Colorless
+  convertedEnergyCost: 3
+  damage: '20'
+  text: Flip a coin. If heads, the Defending Pokémon is now Confused.
+weaknesses:
+- type: Fire
+  value: "×2"
+retreatCost:
+- Colorless
+convertedRetreatCost: 1
+set:
+  id: ecard3
+  name: Skyridge
+  series: E-Card
+  printedTotal: 144
+  total: 182
+  legalities:
+    unlimited: Legal
+  ptcgoCode: SK
+  releaseDate: 2003/05/12
+  updatedAt: 2020/08/14 09:35:00
+  images:
+    symbol: https://images.pokemontcg.io/ecard3/symbol.png
+    logo: https://images.pokemontcg.io/ecard3/logo.png
+number: '145'
+artist: Mitsuhiro Arita
+rarity: Rare Secret
+nationalPokedexNumbers:
+- 251
+legalities:
+  unlimited: Legal
+images:
+  small: https://images.pokemontcg.io/ecard3/145.png
+  large: https://images.pokemontcg.io/ecard3/145_hires.png
+tcgplayer:
+  url: https://prices.pokemontcg.io/tcgplayer/ecard3-145
+  updatedAt: 2023/09/09
+  prices:
+    holofoil:
+      low: 1199.91
+      mid: 4162.43
+      high: 7125.94
+      market: 1489.0
+      directLow: 
+    reverseHolofoil:
+      low: 344.44
+      mid: 351.53
+      high: 703.89
+      market: 234.01
+      directLow: 
+cardmarket:
+  url: https://prices.pokemontcg.io/cardmarket/ecard3-145
+  updatedAt: 2023/09/09
+  prices:
+    averageSellPrice: 258.8
+    lowPrice: 50.0
+    trendPrice: 353.6
+    germanProLow: 0.0
+    suggestedPrice: 0.0
+    reverseHoloSell: 117.4
+    reverseHoloLow: 50.0
+    reverseHoloTrend: 99.85
+    lowPriceExPlus: 139.0
+    avg1: 375.0
+    avg7: 331.28
+    avg30: 331.42
+    reverseHoloAvg1: 117.4
+    reverseHoloAvg7: 113.2
+    reverseHoloAvg30: 118.99

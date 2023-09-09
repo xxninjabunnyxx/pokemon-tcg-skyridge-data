@@ -1,0 +1,90 @@
+---
+id: ecard3-23
+name: Omastar
+supertype: Pokémon
+subtypes:
+- Stage 2
+hp: '90'
+types:
+- Water
+evolvesFrom: Omanyte
+abilities:
+- name: Primal Stare
+  text: As long as Omastar is your Active Pokémon, your opponent can't play Basic
+    Pokémon or Evolution cards from his or her hand to evolve his or her Active Pokémon.
+  type: Poké-Body
+attacks:
+- name: Spook
+  cost:
+  - Water
+  - Water
+  - Colorless
+  convertedEnergyCost: 3
+  damage: '50'
+  text: The Defending Pokémon can't retreat during your opponent's next turn.
+weaknesses:
+- type: Lightning
+  value: "×2"
+retreatCost:
+- Colorless
+- Colorless
+convertedRetreatCost: 2
+set:
+  id: ecard3
+  name: Skyridge
+  series: E-Card
+  printedTotal: 144
+  total: 182
+  legalities:
+    unlimited: Legal
+  ptcgoCode: SK
+  releaseDate: 2003/05/12
+  updatedAt: 2020/08/14 09:35:00
+  images:
+    symbol: https://images.pokemontcg.io/ecard3/symbol.png
+    logo: https://images.pokemontcg.io/ecard3/logo.png
+number: '23'
+artist: Hajime Kusajima
+rarity: Rare
+nationalPokedexNumbers:
+- 139
+legalities:
+  unlimited: Legal
+images:
+  small: https://images.pokemontcg.io/ecard3/23.png
+  large: https://images.pokemontcg.io/ecard3/23_hires.png
+tcgplayer:
+  url: https://prices.pokemontcg.io/tcgplayer/ecard3-23
+  updatedAt: 2023/09/09
+  prices:
+    normal:
+      low: 8.36
+      mid: 12.99
+      high: 14.99
+      market: 12.33
+      directLow: 
+    reverseHolofoil:
+      low: 27.88
+      mid: 37.37
+      high: 89.99
+      market: 40.98
+      directLow: 24.99
+cardmarket:
+  url: https://prices.pokemontcg.io/cardmarket/ecard3-23
+  updatedAt: 2023/09/09
+  prices:
+    averageSellPrice: 4.28
+    lowPrice: 0.98
+    trendPrice: 4.1
+    germanProLow: 0.0
+    suggestedPrice: 0.0
+    reverseHoloSell: 0.0
+    reverseHoloLow: 4.99
+    reverseHoloTrend: 15.14
+    lowPriceExPlus: 2.5
+    avg1: 4.5
+    avg7: 4.61
+    avg30: 3.97
+    reverseHoloAvg1: 9.9
+    reverseHoloAvg7: 15.36
+    reverseHoloAvg30: 11.99

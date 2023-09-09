@@ -1,0 +1,67 @@
+---
+id: ecard3-144
+name: Retro Energy
+supertype: Energy
+subtypes:
+- Special
+rules:
+- This card provides Colorless Energy. When you play this card from your hand and
+  attach it to 1 of your Evolved Pokémon, you may remove up to 2 damage counters from
+  that Pokémon and discard the top card from it. (This counts as devolving it.)
+set:
+  id: ecard3
+  name: Skyridge
+  series: E-Card
+  printedTotal: 144
+  total: 182
+  legalities:
+    unlimited: Legal
+  ptcgoCode: SK
+  releaseDate: 2003/05/12
+  updatedAt: 2020/08/14 09:35:00
+  images:
+    symbol: https://images.pokemontcg.io/ecard3/symbol.png
+    logo: https://images.pokemontcg.io/ecard3/logo.png
+number: '144'
+artist: Shin-ichi Yoshikawa
+rarity: Uncommon
+legalities:
+  unlimited: Legal
+images:
+  small: https://images.pokemontcg.io/ecard3/144.png
+  large: https://images.pokemontcg.io/ecard3/144_hires.png
+tcgplayer:
+  url: https://prices.pokemontcg.io/tcgplayer/ecard3-144
+  updatedAt: 2023/09/09
+  prices:
+    normal:
+      low: 3.26
+      mid: 7.5
+      high: 15.0
+      market: 3.4
+      directLow: 
+    reverseHolofoil:
+      low: 18.05
+      mid: 19.79
+      high: 32.98
+      market: 22.9
+      directLow: 
+cardmarket:
+  url: https://prices.pokemontcg.io/cardmarket/ecard3-144
+  updatedAt: 2023/09/09
+  prices:
+    averageSellPrice: 0.92
+    lowPrice: 0.1
+    trendPrice: 1.42
+    germanProLow: 0.0
+    suggestedPrice: 0.0
+    reverseHoloSell: 0.0
+    reverseHoloLow: 2.22
+    reverseHoloTrend: 8.09
+    lowPriceExPlus: 1.0
+    avg1: 0.8
+    avg7: 1.31
+    avg30: 1.59
+    reverseHoloAvg1: 8.0
+    reverseHoloAvg7: 7.56
+    reverseHoloAvg30: 6.68
